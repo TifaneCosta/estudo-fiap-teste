@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aqui estou dentro da branch v3
+=======
+novo teste para ver a branch diferente v3
+>>>>>>> master
