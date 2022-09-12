@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 aqui estou dentro da branch v3
+
+forçando um erro de conflito 
+
+
 =======
 novo teste para ver a branch diferente v3
 >>>>>>> master
