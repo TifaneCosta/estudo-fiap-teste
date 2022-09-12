@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 aqui estou dentro da branch v3
 
 forçando um erro de conflito 
@@ -13,3 +14,6 @@ novo teste para ver a branch diferente v3
 
 teste para fazer o merge com a v3
 >>>>>>> master
+=======
+forçando erro de conflito de branchs com a v3 e a master
+>>>>>>> v3
