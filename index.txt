@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 aqui estou dentro da branch v3
 =======
 novo teste para ver a branch diferente v3
+>>>>>>> master
+=======
+novo teste para ver a branch diferente v3
+
+teste para fazer o merge com a v3
 >>>>>>> master
